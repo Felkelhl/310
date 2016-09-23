@@ -1,0 +1,14 @@
+3
+A B M
+T T S
+C C Q
+AB
+AM
+AMB
+ACT
+TBC
+AQT
+TAC
+MQS
+DAN
+ATQ
